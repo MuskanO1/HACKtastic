@@ -2012,6 +2012,7 @@ margin-top: 20px;
 	font-weight: bold; 
 	display: inline-block; 
 	padding-bottom: 6px;
+	margin-left: 170px;
 }
 .yellow_bg .yellow-box i {padding-bottom: 10px; padding-left: 15px;	}
 .yellow_bg .yellow-box p {
@@ -2019,7 +2020,7 @@ margin-top: 20px;
 	font-size: 22px; 
 	line-height: 28px; 
 	color: #010101;
-	margin-left: px;
+	margin-left: 170px;
 }
 .yellow_bg .yellow-box a {
 	background: #000;
@@ -2035,6 +2036,8 @@ margin-top: 20px;
     margin-left: 50px;
     margin-top: 17px;
     font-weight: 500;
+
+	
 }
 
 
